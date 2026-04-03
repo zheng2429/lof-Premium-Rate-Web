@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-03T16:55:08.917Z",
+  "syncedAt": "2026-04-03T17:26:54.967Z",
   "funds": [
     {
       "code": "160221",
@@ -81433,10 +81433,10 @@
       ],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8782,
-        "previousCloseRate": 6.8792,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "16:40:14",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
@@ -83175,10 +83175,10 @@
       ],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8782,
-        "previousCloseRate": 6.8792,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "16:40:14",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
@@ -83212,9 +83212,13 @@
       "name": "沙特ETF南方(159329)",
       "fundType": "指数型-海外股票",
       "benchmark": "经汇率调整后的富时沙特阿拉伯指数收益率",
-      "officialNavT1": 0.9439,
-      "navDate": "2026-03-31",
+      "officialNavT1": 0.9422,
+      "navDate": "2026-04-01",
       "navHistory": [
+        {
+          "date": "2026-04-01",
+          "nav": 0.9422
+        },
         {
           "date": "2026-03-31",
           "nav": 0.9439
@@ -84900,10 +84904,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8841,
-        "previousCloseRate": 6.8855,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "01:25:01",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -86623,10 +86627,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8782,
-        "previousCloseRate": 6.8792,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "16:40:14",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -88346,10 +88350,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8791,
-        "previousCloseRate": 6.8801,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "17:37:13",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -90160,10 +90164,10 @@
       ],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.8791,
-        "previousCloseRate": 6.8801,
-        "quoteDate": "2026-04-03",
-        "quoteTime": "17:37:13",
+        "currentRate": 6.8825,
+        "previousCloseRate": 6.8828,
+        "quoteDate": "2026-04-04",
+        "quoteTime": "01:23:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
@@ -114553,16 +114557,16 @@
     "159329": {
       "modelVersion": 17,
       "model": {
-        "alpha": 0.000846690331190163,
-        "betaLead": 0.37999924834317084,
-        "betaGap": -0.0000020854768102315794,
+        "alpha": 0.0005367816233147293,
+        "betaLead": 0.3799926050696901,
+        "betaGap": 7.124244292173539e-7,
         "adaptiveK": 1,
         "adaptiveBias": 0,
-        "lastTargetReturn": 0.007686559197181531,
+        "lastTargetReturn": 0.0007434944237918462,
         "learningRate": 0.24,
-        "sampleCount": 33,
-        "meanAbsError": 0.003923680924934313,
-        "lastUpdatedAt": "2026-04-02T17:27:46.902Z"
+        "sampleCount": 34,
+        "meanAbsError": 0.004029567787987402,
+        "lastUpdatedAt": "2026-04-03T17:26:54.149Z"
       },
       "journal": {
         "snapshots": [
@@ -114789,6 +114793,22 @@
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-02T17:27:46.903Z"
+          },
+          {
+            "estimateDate": "2026-04-03",
+            "estimatedNav": 0.9411838460445772,
+            "marketPrice": 0.937,
+            "premiumRate": -0.004445301587102435,
+            "marketPriceDate": "2026-04-03",
+            "marketPriceTime": "16:14:18",
+            "marketPriceType": "intraday",
+            "anchorNav": 0.9422,
+            "leadReturn": -0.004250797024441977,
+            "closeGapReturn": -0.0012736149437487798,
+            "impliedReturn": -0.001078490718979864,
+            "adaptiveUsed": false,
+            "adaptiveShockTriggered": false,
+            "createdAt": "2026-04-03T17:26:54.149Z"
           }
         ],
         "errors": [
@@ -114923,6 +114943,18 @@
             "absPremiumError": 0.007876421621551999,
             "error": -0.007905445768711217,
             "absError": 0.007905445768711217
+          },
+          {
+            "date": "2026-04-01",
+            "marketPrice": 0.953,
+            "estimatedNav": 0.9492889566480063,
+            "actualNav": 0.9422,
+            "premiumRate": 0.003909287394533223,
+            "actualPremiumRate": 0.01146253449373802,
+            "premiumError": -0.007553247099204796,
+            "absPremiumError": 0.007553247099204796,
+            "error": 0.007523834268739371,
+            "absError": 0.007523834268739371
           }
         ]
       }
@@ -123115,19 +123147,19 @@
           },
           {
             "estimateDate": "2026-04-03",
-            "estimatedNav": 1.8001584360661365,
+            "estimatedNav": 1.8001584359854603,
             "marketPrice": 1.797,
-            "premiumRate": -0.001754532269414355,
+            "premiumRate": -0.001754532224676919,
             "marketPriceDate": "2026-04-03",
             "marketPriceTime": "16:14:48",
             "marketPriceType": "intraday",
             "anchorNav": 1.8003,
             "leadReturn": -0.0007739137216784603,
-            "closeGapReturn": -0.0001453467246115281,
-            "impliedReturn": -0.00007863352433681122,
+            "closeGapReturn": -0.00004358691230299527,
+            "impliedReturn": -0.0000786335691493469,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T09:39:19.770Z"
+            "createdAt": "2026-04-03T17:26:54.959Z"
           }
         ],
         "errors": [
@@ -129218,7 +129250,7 @@
             "impliedReturn": 0.006019510956809031,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T08:41:51.729Z"
+            "createdAt": "2026-04-03T17:26:54.150Z"
           }
         ],
         "errors": [
@@ -134717,7 +134749,7 @@
             "impliedReturn": 0.002996283672573893,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T08:41:18.590Z"
+            "createdAt": "2026-04-03T17:26:45.172Z"
           }
         ],
         "errors": [
@@ -136794,7 +136826,7 @@
             "impliedReturn": 0.004773750464042878,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T09:39:09.308Z"
+            "createdAt": "2026-04-03T17:26:54.151Z"
           }
         ],
         "errors": [
@@ -137969,19 +138001,19 @@
           },
           {
             "estimateDate": "2026-04-03",
-            "estimatedNav": 1.172624503750602,
+            "estimatedNav": 1.1726245059234313,
             "marketPrice": 1.182,
-            "premiumRate": 0.00799530985358965,
+            "premiumRate": 0.007995307985812161,
             "marketPriceDate": "2026-04-03",
             "marketPriceTime": "16:14:32",
             "marketPriceType": "intraday",
             "anchorNav": 1.1776,
             "leadReturn": -0.012964115328769954,
-            "closeGapReturn": -0.00014536574020240778,
-            "impliedReturn": -0.004225115700915346,
+            "closeGapReturn": -0.00004358691230299527,
+            "impliedReturn": -0.004225113855781835,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T08:41:35.870Z"
+            "createdAt": "2026-04-03T17:26:45.586Z"
           }
         ],
         "errors": [
