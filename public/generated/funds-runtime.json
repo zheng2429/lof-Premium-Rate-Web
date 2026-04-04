@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-04T16:40:07.858Z",
+  "syncedAt": "2026-04-04T18:46:55.713Z",
   "funds": [
     {
       "code": "160221",
@@ -15110,9 +15110,13 @@
       "name": "国泰大宗商品(QDII-LOF)A(160216)",
       "fundType": "QDII-商品",
       "benchmark": "国泰大宗商品配置指数(全收益指数)",
-      "officialNavT1": 0.757,
-      "navDate": "2026-03-31",
+      "officialNavT1": 0.767,
+      "navDate": "2026-04-01",
       "navHistory": [
+        {
+          "date": "2026-04-01",
+          "nav": 0.767
+        },
         {
           "date": "2026-03-31",
           "nav": 0.757
@@ -16788,10 +16792,6 @@
         {
           "date": "2024-07-08",
           "nav": 0.499
-        },
-        {
-          "date": "2024-07-07",
-          "nav": 0.5
         }
       ],
       "marketPrice": 0.755,
@@ -22031,7 +22031,7 @@
       "marketDate": "2026-04-03",
       "marketTime": "16:14:48",
       "marketSource": "腾讯行情",
-      "purchaseStatus": "暂停申购 / 暂停赎回",
+      "purchaseStatus": "暂停申购 / 开放赎回",
       "purchaseLimit": "暂停申购",
       "disclosedHoldingsTitle": "2025年第4季度前十名基金投资明细",
       "disclosedHoldingsReportDate": "2025-12-31",
@@ -117889,16 +117889,16 @@
     "160216": {
       "modelVersion": 17,
       "model": {
-        "alpha": -0.00018201197377564374,
-        "betaLead": 0.38001670801258053,
-        "betaGap": 2.0148006485448487e-8,
+        "alpha": 0.00012026677544447044,
+        "betaLead": 0.3800143064888389,
+        "betaGap": -4.1415893559365485e-8,
         "adaptiveK": 0.9801434483191677,
         "adaptiveBias": -0.001108622327113255,
-        "lastTargetReturn": -0.003947368421052588,
+        "lastTargetReturn": 0.003926701570680535,
         "learningRate": 0.24,
-        "sampleCount": 33,
-        "meanAbsError": 0.0071673335486917315,
-        "lastUpdatedAt": "2026-04-03T11:43:43.562Z"
+        "sampleCount": 34,
+        "meanAbsError": 0.007171686338774486,
+        "lastUpdatedAt": "2026-04-04T18:46:36.634Z"
       },
       "journal": {
         "snapshots": [
@@ -118168,19 +118168,19 @@
           },
           {
             "estimateDate": "2026-04-03",
-            "estimatedNav": 0.7633819945180308,
+            "estimatedNav": 0.7736981069860613,
             "marketPrice": 0.755,
-            "premiumRate": -0.010980078883472855,
+            "premiumRate": -0.02416718719772981,
             "marketPriceDate": "2026-04-03",
             "marketPriceTime": "16:14:48",
             "marketPriceType": "intraday",
-            "anchorNav": 0.757,
+            "anchorNav": 0.767,
             "leadReturn": 0.022663877266387633,
             "closeGapReturn": -0.00027592616796645597,
-            "impliedReturn": 0.008430640050238785,
+            "impliedReturn": 0.008732864388606657,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T20:03:31.138Z"
+            "createdAt": "2026-04-04T18:46:36.634Z"
           }
         ],
         "errors": [
@@ -118351,6 +118351,18 @@
             "absPremiumError": 0.0004936779261606183,
             "error": -0.00047889130977640804,
             "absError": 0.00047889130977640804
+          },
+          {
+            "date": "2026-04-01",
+            "marketPrice": 0.787,
+            "estimatedNav": 0.7613891431083754,
+            "actualNav": 0.767,
+            "premiumRate": 0.03363701350805748,
+            "actualPremiumRate": 0.026075619295958363,
+            "premiumError": 0.007561394212099115,
+            "absPremiumError": 0.007561394212099115,
+            "error": -0.007315328411505395,
+            "absError": 0.007315328411505395
           }
         ]
       }
@@ -120444,7 +120456,7 @@
             "impliedReturn": -0.014707371724153573,
             "adaptiveUsed": true,
             "adaptiveShockTriggered": true,
-            "createdAt": "2026-04-03T20:50:10.850Z"
+            "createdAt": "2026-04-04T18:46:47.765Z"
           }
         ],
         "errors": [
@@ -121972,7 +121984,7 @@
             "impliedReturn": -0.08,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T20:03:31.139Z"
+            "createdAt": "2026-04-04T18:46:38.200Z"
           }
         ],
         "errors": [
@@ -124161,7 +124173,7 @@
             "impliedReturn": 0.007290297789273482,
             "adaptiveUsed": true,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T20:03:31.137Z"
+            "createdAt": "2026-04-04T18:46:35.101Z"
           }
         ],
         "errors": [
@@ -129073,7 +129085,7 @@
             "impliedReturn": -0.0011253001662417045,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T20:03:37.634Z"
+            "createdAt": "2026-04-04T18:46:40.947Z"
           }
         ],
         "errors": [
@@ -131698,19 +131710,19 @@
           },
           {
             "estimateDate": "2026-04-03",
-            "estimatedNav": 1.7574370819359106,
+            "estimatedNav": 2.0139645958066628,
             "marketPrice": 2.393,
-            "premiumRate": 0.361641918562446,
+            "premiumRate": 0.18820360843608586,
             "marketPriceDate": "2026-04-03",
             "marketPriceTime": "16:14:09",
             "marketPriceType": "intraday",
             "anchorNav": 1.8269,
-            "leadReturn": 0.02,
+            "leadReturn": 0.09598644958874766,
             "closeGapReturn": -0.00027592616796645597,
-            "impliedReturn": -0.03802228806398233,
+            "impliedReturn": 0.10239454584633129,
             "adaptiveUsed": true,
-            "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T20:50:11.177Z"
+            "adaptiveShockTriggered": true,
+            "createdAt": "2026-04-04T18:46:55.706Z"
           }
         ],
         "errors": [
