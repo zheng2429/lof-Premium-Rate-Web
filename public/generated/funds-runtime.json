@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-05T13:04:31.473Z",
+  "syncedAt": "2026-04-05T14:37:53.369Z",
   "funds": [
     {
       "code": "160221",
@@ -111179,9 +111179,13 @@
       "name": "富国中证1000指数增强(LOF)A(161039)",
       "fundType": "指数型-股票",
       "benchmark": "中证1000指数收益率*95%+银行人民币活期存款利率(税后)*5%",
-      "officialNavT1": 2.6806,
-      "navDate": "2026-04-01",
+      "officialNavT1": 2.6448,
+      "navDate": "2026-04-02",
       "navHistory": [
+        {
+          "date": "2026-04-02",
+          "nav": 2.6448
+        },
         {
           "date": "2026-04-01",
           "nav": 2.6806
@@ -112857,10 +112861,6 @@
         {
           "date": "2024-07-09",
           "nav": 1.6055
-        },
-        {
-          "date": "2024-07-08",
-          "nav": 1.6117
         }
       ],
       "marketPrice": 2.68,
@@ -112969,7 +112969,7 @@
         "currentRate": 6.884,
         "previousCloseRate": 6.8859,
         "quoteDate": "2026-04-04",
-        "quoteTime": "02:55:01",
+        "quoteTime": "02:57:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
@@ -118676,7 +118676,7 @@
             "impliedReturn": -0.01113587745918342,
             "adaptiveUsed": true,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-04T14:35:39.918Z"
+            "createdAt": "2026-04-05T14:37:00.797Z"
           }
         ],
         "errors": [
@@ -121428,16 +121428,16 @@
     "161039": {
       "modelVersion": 17,
       "model": {
-        "alpha": -0.0007262047292096398,
-        "betaLead": 0.3799693640146677,
+        "alpha": -0.001690846947451411,
+        "betaLead": 0.3799864168714486,
         "betaGap": 0,
         "adaptiveK": 1,
         "adaptiveBias": 0,
-        "lastTargetReturn": -0.01629357798165132,
+        "lastTargetReturn": -0.029431192660550498,
         "learningRate": 0.24,
-        "sampleCount": 32,
-        "meanAbsError": 0.003997076305800865,
-        "lastUpdatedAt": "2026-04-03T10:58:37.258Z"
+        "sampleCount": 33,
+        "meanAbsError": 0.0045968473009915,
+        "lastUpdatedAt": "2026-04-05T14:37:43.593Z"
       },
       "journal": {
         "snapshots": [
@@ -121575,7 +121575,7 @@
             "marketPrice": 2.711,
             "premiumRate": 0.0012118984064415361,
             "marketPriceDate": "2026-04-02",
-            "marketPriceTime": "16:14:54",
+            "marketPriceTime": "15:00:00",
             "marketPriceType": "close",
             "anchorNav": 2.725,
             "leadReturn": -0.017677908408353156,
@@ -121587,19 +121587,19 @@
           },
           {
             "estimateDate": "2026-04-03",
-            "estimatedNav": 2.657511026268227,
+            "estimatedNav": 2.619467162644371,
             "marketPrice": 2.68,
-            "premiumRate": 0.008462419726383175,
+            "premiumRate": 0.023108836109447806,
             "marketPriceDate": "2026-04-03",
             "marketPriceTime": "16:14:42",
             "marketPriceType": "close",
-            "anchorNav": 2.6806,
+            "anchorNav": 2.6448,
             "leadReturn": -0.020757346142558437,
             "closeGapReturn": 0,
-            "impliedReturn": -0.008613360341629885,
+            "impliedReturn": -0.009578356531922575,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-03T18:56:04.540Z"
+            "createdAt": "2026-04-05T14:37:43.593Z"
           }
         ],
         "errors": [
@@ -121698,6 +121698,18 @@
             "absPremiumError": 0.026015201038769753,
             "error": 0.026402645509924882,
             "absError": 0.026402645509924882
+          },
+          {
+            "date": "2026-04-02",
+            "marketPrice": 2.711,
+            "estimatedNav": 2.7077185202402285,
+            "actualNav": 2.6448,
+            "premiumRate": 0.0012118984064415361,
+            "actualPremiumRate": 0.025030248033877767,
+            "premiumError": -0.02381834962743623,
+            "absPremiumError": 0.02381834962743623,
+            "error": 0.02378951914709182,
+            "absError": 0.02378951914709182
           }
         ]
       }
@@ -126457,7 +126469,7 @@
             "impliedReturn": -0.0023403506701681802,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-04T14:36:12.368Z"
+            "createdAt": "2026-04-05T14:37:35.654Z"
           }
         ],
         "errors": [
@@ -126856,7 +126868,7 @@
             "impliedReturn": -0.012727223395994325,
             "adaptiveUsed": true,
             "adaptiveShockTriggered": true,
-            "createdAt": "2026-04-04T16:38:47.556Z"
+            "createdAt": "2026-04-05T14:37:25.317Z"
           }
         ],
         "errors": [
@@ -130010,7 +130022,7 @@
             "impliedReturn": -0.010991557894209858,
             "adaptiveUsed": true,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-04T16:38:39.529Z"
+            "createdAt": "2026-04-05T14:37:12.650Z"
           }
         ],
         "errors": [
@@ -133495,7 +133507,7 @@
         "betaGap": 0,
         "adaptiveK": 1,
         "adaptiveBias": 0,
-        "lastTargetReturn": -0.012652466775896598,
+        "lastTargetReturn": 0,
         "learningRate": 0.24,
         "sampleCount": 5,
         "meanAbsError": 0.002979482455963622,
@@ -133581,7 +133593,7 @@
             "impliedReturn": -0.006211285315726716,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-04T14:36:31.313Z"
+            "createdAt": "2026-04-05T14:37:53.361Z"
           }
         ],
         "errors": [
@@ -133636,14 +133648,14 @@
           {
             "date": "2026-04-03",
             "marketPrice": 1.083,
-            "estimatedNav": 1.0926273810090437,
+            "estimatedNav": 1.0779626188180313,
             "actualNav": 1.0847,
-            "premiumRate": -0.008811220711083423,
+            "premiumRate": 0.004673057389960267,
             "actualPremiumRate": -0.0015672536185120656,
-            "premiumError": -0.007243967092571357,
-            "absPremiumError": 0.007243967092571357,
-            "error": 0.007308362689263159,
-            "absError": 0.007308362689263159
+            "premiumError": 0.006240311008472332,
+            "absPremiumError": 0.006240311008472332,
+            "error": -0.006211285315726567,
+            "absError": 0.006211285315726567
           }
         ]
       }
