@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-12T13:07:11.327Z",
+  "syncedAt": "2026-04-12T14:42:35.034Z",
   "funds": [
     {
       "code": "160221",
@@ -69491,9 +69491,13 @@
       "name": "沙特ETF华泰柏瑞(520830)",
       "fundType": "指数型-海外股票",
       "benchmark": "富时沙特阿拉伯指数收益率(使用估值汇率折算)",
-      "officialNavT1": 0.939,
-      "navDate": "2026-04-07",
+      "officialNavT1": 0.9396,
+      "navDate": "2026-04-08",
       "navHistory": [
+        {
+          "date": "2026-04-08",
+          "nav": 0.9396
+        },
         {
           "date": "2026-04-07",
           "nav": 0.939
@@ -71169,10 +71173,6 @@
         {
           "date": "2024-07-14",
           "nav": 0.997
-        },
-        {
-          "date": "2024-07-11",
-          "nav": 0.9803
         }
       ],
       "marketPrice": 0.934,
@@ -117099,7 +117099,7 @@
             "impliedReturn": -0.004905748045631735,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-11T16:39:43.910Z"
+            "createdAt": "2026-04-12T14:42:21.584Z"
           }
         ],
         "errors": [
@@ -127064,7 +127064,7 @@
             "impliedReturn": -0.0007215755567488221,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-11T14:39:25.967Z"
+            "createdAt": "2026-04-12T14:42:14.680Z"
           }
         ],
         "errors": [
@@ -132230,7 +132230,7 @@
             "impliedReturn": 0.0023365133770831843,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-11T16:39:51.205Z"
+            "createdAt": "2026-04-12T14:42:35.024Z"
           }
         ],
         "errors": [
@@ -143584,7 +143584,7 @@
             "impliedReturn": 0.005917022391671342,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-11T14:38:55.092Z"
+            "createdAt": "2026-04-12T14:41:51.405Z"
           }
         ],
         "errors": [
@@ -148565,7 +148565,7 @@
             "impliedReturn": 0.0032608935570139865,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-11T14:39:06.205Z"
+            "createdAt": "2026-04-12T14:42:04.020Z"
           }
         ],
         "errors": [
@@ -148796,7 +148796,7 @@
         "betaGap": -8.960290144469935e-7,
         "adaptiveK": 1,
         "adaptiveBias": 0,
-        "lastTargetReturn": 0.00924333619948392,
+        "lastTargetReturn": 0.009671179883945946,
         "learningRate": 0.24,
         "sampleCount": 35,
         "meanAbsError": 0.0038743179391594012,
@@ -149094,19 +149094,19 @@
           },
           {
             "estimateDate": "2026-04-10",
-            "estimatedNav": 0.9405697824685997,
+            "estimatedNav": 0.9411707860575274,
             "marketPrice": 0.934,
-            "premiumRate": -0.006984896379890859,
+            "premiumRate": -0.007619006203502199,
             "marketPriceDate": "2026-04-10",
             "marketPriceTime": "16:14:30",
             "marketPriceType": "intraday",
-            "anchorNav": 0.939,
+            "anchorNav": 0.9396,
             "leadReturn": 0.0032223415682062218,
-            "closeGapReturn": -0.008519701810436486,
-            "impliedReturn": 0.0016717598174651343,
+            "closeGapReturn": -0.009152830991911443,
+            "impliedReturn": 0.0016717603847672506,
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
-            "createdAt": "2026-04-10T18:47:09.224Z"
+            "createdAt": "2026-04-12T14:41:35.024Z"
           }
         ],
         "errors": [
@@ -149305,14 +149305,14 @@
           {
             "date": "2026-04-08",
             "marketPrice": 0.935,
-            "estimatedNav": 0.9355426916544541,
-            "actualNav": 0.939,
-            "premiumRate": -0.0005800821911123855,
-            "actualPremiumRate": -0.004259850905218188,
-            "premiumError": 0.003679768714105802,
-            "absPremiumError": 0.003679768714105802,
-            "error": -0.0036819045213480894,
-            "absError": 0.0036819045213480894
+            "estimatedNav": 0.9356137374797309,
+            "actualNav": 0.9396,
+            "premiumRate": -0.0006559731384279122,
+            "actualPremiumRate": -0.004895700297999128,
+            "premiumError": 0.004239727159571216,
+            "absPremiumError": 0.004239727159571216,
+            "error": -0.004242510132257515,
+            "absError": 0.004242510132257515
           }
         ]
       }
