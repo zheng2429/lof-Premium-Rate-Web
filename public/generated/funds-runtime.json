@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-17T13:43:58.959Z",
+  "syncedAt": "2026-04-17T14:19:03.266Z",
   "funds": [
     {
       "code": "160221",
@@ -9535,9 +9535,13 @@
       "name": "汇添富中证中药ETF联接(LOF)A(501011)",
       "fundType": "指数型-股票",
       "benchmark": "中证中药指数收益率*95%+银行人民币活期存款利率(税后)*5%",
-      "officialNavT1": 1.0669,
-      "navDate": "2026-04-15",
+      "officialNavT1": 1.0521,
+      "navDate": "2026-04-16",
       "navHistory": [
+        {
+          "date": "2026-04-16",
+          "nav": 1.0521
+        },
         {
           "date": "2026-04-15",
           "nav": 1.0669
@@ -11213,10 +11217,6 @@
         {
           "date": "2024-07-22",
           "nav": 1.0693
-        },
-        {
-          "date": "2024-07-21",
-          "nav": 1.1041
         }
       ],
       "marketPrice": 1.05,
@@ -11232,8 +11232,8 @@
         {
           "ticker": "600436",
           "name": "片仔癀",
-          "currentPrice": 148.07,
-          "changeRate": -0.006108202443280919,
+          "currentPrice": 146.31,
+          "changeRate": -0.011886270007428812,
           "weight": 0.04,
           "shares": 0.2,
           "marketValue": 45.7
@@ -11241,8 +11241,8 @@
         {
           "ticker": "600085",
           "name": "同仁堂",
-          "currentPrice": 27.94,
-          "changeRate": -0.0039215686274509665,
+          "currentPrice": 27.73,
+          "changeRate": -0.007516105941302809,
           "weight": 0.03,
           "shares": 0.8,
           "marketValue": 32.79
@@ -11250,8 +11250,8 @@
         {
           "ticker": "600332",
           "name": "白云山",
-          "currentPrice": 22.92,
-          "changeRate": -0.003478260869565153,
+          "currentPrice": 22.78,
+          "changeRate": -0.00610820244328103,
           "weight": 0.02,
           "shares": 0.8,
           "marketValue": 23.08
@@ -11259,8 +11259,8 @@
         {
           "ticker": "600535",
           "name": "天士力",
-          "currentPrice": 14.42,
-          "changeRate": 0.006983240223463749,
+          "currentPrice": 14.25,
+          "changeRate": -0.011789181692094308,
           "weight": 0.01,
           "shares": 1.1,
           "marketValue": 17.72
@@ -11268,8 +11268,8 @@
         {
           "ticker": "600129",
           "name": "太极集团",
-          "currentPrice": 16.57,
-          "changeRate": -0.0042067307692308376,
+          "currentPrice": 16.25,
+          "changeRate": -0.01931200965600488,
           "weight": 0.01,
           "shares": 0.5,
           "marketValue": 16.63
@@ -11277,8 +11277,8 @@
         {
           "ticker": "600566",
           "name": "济川药业",
-          "currentPrice": 25.24,
-          "changeRate": -0.002371541501976382,
+          "currentPrice": 24.9,
+          "changeRate": -0.01347068145800312,
           "weight": 0.01,
           "shares": 0.4,
           "marketValue": 14.97
@@ -11286,8 +11286,8 @@
         {
           "ticker": "600771",
           "name": "广誉远",
-          "currentPrice": 17.37,
-          "changeRate": 0.0028868360277136684,
+          "currentPrice": 17.35,
+          "changeRate": -0.0011514104778352907,
           "weight": 0.01,
           "shares": 0.6,
           "marketValue": 14.78
@@ -11295,8 +11295,8 @@
         {
           "ticker": "600422",
           "name": "昆药集团",
-          "currentPrice": 11.28,
-          "changeRate": -0.005291005291005346,
+          "currentPrice": 11.17,
+          "changeRate": -0.009751773049645363,
           "weight": 0.01,
           "shares": 0.6,
           "marketValue": 12.91
@@ -11304,8 +11304,8 @@
         {
           "ticker": "600285",
           "name": "羚锐制药",
-          "currentPrice": 21.24,
-          "changeRate": -0.01666666666666683,
+          "currentPrice": 21.08,
+          "changeRate": -0.007532956685499026,
           "weight": 0.01,
           "shares": 0.5,
           "marketValue": 10.73
@@ -11313,8 +11313,8 @@
         {
           "ticker": "600572",
           "name": "康恩贝",
-          "currentPrice": 4.94,
-          "changeRate": 0.029166666666666785,
+          "currentPrice": 4.68,
+          "changeRate": -0.052631578947368585,
           "weight": 0.01,
           "shares": 2.1,
           "marketValue": 10.14
@@ -11322,106 +11322,106 @@
       ],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.823,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:46:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
         {
           "ticker": "600436",
           "name": "片仔癀",
-          "currentPrice": 148.07,
-          "previousClose": 148.98,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 146.31,
+          "previousClose": 148.07,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600085",
           "name": "同仁堂",
-          "currentPrice": 27.94,
-          "previousClose": 28.05,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 27.73,
+          "previousClose": 27.94,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600332",
           "name": "白云山",
-          "currentPrice": 22.92,
-          "previousClose": 23,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 22.78,
+          "previousClose": 22.92,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600535",
           "name": "天士力",
-          "currentPrice": 14.42,
-          "previousClose": 14.319999999999999,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 14.25,
+          "previousClose": 14.42,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600129",
           "name": "太极集团",
-          "currentPrice": 16.57,
-          "previousClose": 16.64,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 16.25,
+          "previousClose": 16.57,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600566",
           "name": "济川药业",
-          "currentPrice": 25.24,
-          "previousClose": 25.3,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 24.9,
+          "previousClose": 25.24,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600771",
           "name": "广誉远",
-          "currentPrice": 17.37,
-          "previousClose": 17.32,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 17.35,
+          "previousClose": 17.37,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600422",
           "name": "昆药集团",
-          "currentPrice": 11.28,
-          "previousClose": 11.34,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 11.17,
+          "previousClose": 11.28,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600285",
           "name": "羚锐制药",
-          "currentPrice": 21.24,
-          "previousClose": 21.6,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 21.08,
+          "previousClose": 21.24,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         },
         {
           "ticker": "600572",
           "name": "康恩贝",
-          "currentPrice": 4.94,
-          "previousClose": 4.8,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:06",
+          "currentPrice": 4.68,
+          "previousClose": 4.94,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:22",
           "currency": "CNY"
         }
       ],
-      "holdingsQuoteDate": "2026-04-16",
-      "holdingsQuoteTime": "16:14:06",
+      "holdingsQuoteDate": "2026-04-17",
+      "holdingsQuoteTime": "16:14:22",
       "proxyBasketName": "",
       "proxyQuotes": [],
       "proxyQuoteDate": "",
@@ -11440,9 +11440,13 @@
       "name": "国投瑞银白银期货(LOF)A(161226)",
       "fundType": "商品",
       "benchmark": "上海期货交易所白银期货主力合约收益率(扣除相关费用)",
-      "officialNavT1": 2.2442,
-      "navDate": "2026-04-15",
+      "officialNavT1": 2.2192,
+      "navDate": "2026-04-16",
       "navHistory": [
+        {
+          "date": "2026-04-16",
+          "nav": 2.2192
+        },
         {
           "date": "2026-04-15",
           "nav": 2.2442
@@ -13118,10 +13122,6 @@
         {
           "date": "2024-07-22",
           "nav": 0.9286
-        },
-        {
-          "date": "2024-07-21",
-          "nav": 0.933
         }
       ],
       "marketPrice": 2.874,
@@ -13136,10 +13136,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.823,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:46:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -13150,17 +13150,17 @@
         {
           "ticker": "SLV",
           "name": "iShares Silver Trust",
-          "currentPrice": 73.2433,
-          "previousClose": 71.84,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:09",
+          "currentPrice": 76.7556,
+          "previousClose": 71.24,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:33",
           "currency": "USD",
           "weight": 1
         }
       ],
-      "proxyQuoteDate": "2026-04-16",
-      "proxyQuoteTime": "16:14:09",
-      "goldContinuousReturn": -0.0046246436490338105,
+      "proxyQuoteDate": "2026-04-17",
+      "proxyQuoteTime": "16:14:33",
+      "goldContinuousReturn": 0.0496039591331745,
       "goldContinuousSymbol": "hf_XAG",
       "goldContinuousSource": "sina-futures",
       "cacheMode": "intraday-cache-ttl"
@@ -13174,9 +13174,17 @@
       "name": "易方达标普信息科技指数(QDII-LOF)A(人民币)(161128)",
       "fundType": "指数型-海外股票",
       "benchmark": "标普500信息科技指数收益率(使用估值汇率折算)*95%+活期存款利率(税后)*5%",
-      "officialNavT1": 5.685,
-      "navDate": "2026-04-13",
+      "officialNavT1": 5.8384,
+      "navDate": "2026-04-15",
       "navHistory": [
+        {
+          "date": "2026-04-15",
+          "nav": 5.8384
+        },
+        {
+          "date": "2026-04-14",
+          "nav": 5.794
+        },
         {
           "date": "2026-04-13",
           "nav": 5.685
@@ -14848,14 +14856,6 @@
         {
           "date": "2024-07-21",
           "nav": 4.6277
-        },
-        {
-          "date": "2024-07-18",
-          "nav": 4.5445
-        },
-        {
-          "date": "2024-07-17",
-          "nav": 4.597
         }
       ],
       "marketPrice": 5.966,
@@ -14871,8 +14871,8 @@
         {
           "ticker": "NVDA",
           "name": "英伟达",
-          "currentPrice": 198.2,
-          "changeRate": -0.0033690350480214404,
+          "currentPrice": 201.22,
+          "changeRate": 0.014469372321653573,
           "weight": 19.61,
           "shares": 57.72,
           "marketValue": 75658.5
@@ -14880,8 +14880,8 @@
         {
           "ticker": "AAPL",
           "name": "苹果",
-          "currentPrice": 264.14,
-          "changeRate": -0.008595128176256517,
+          "currentPrice": 269.06,
+          "changeRate": 0.021488230827638732,
           "weight": 17.38,
           "shares": 35.1,
           "marketValue": 67063.37
@@ -14889,8 +14889,8 @@
         {
           "ticker": "MSFT",
           "name": "微软",
-          "currentPrice": 419.33,
-          "changeRate": 0.0197218034142308,
+          "currentPrice": 424.32,
+          "changeRate": 0.009660686241850236,
           "weight": 15.55,
           "shares": 17.65,
           "marketValue": 60007.28
@@ -14898,8 +14898,8 @@
         {
           "ticker": "AVGO",
           "name": "博通",
-          "currentPrice": 397.92,
-          "changeRate": 0.003024803387779773,
+          "currentPrice": 404.02,
+          "changeRate": 0.01392827565437793,
           "weight": 7.07,
           "shares": 11.22,
           "marketValue": 27285.53
@@ -14907,8 +14907,8 @@
         {
           "ticker": "PLTR",
           "name": "Palantir Technologies Inc-A",
-          "currentPrice": 142.02,
-          "changeRate": -0.0009145269081954899,
+          "currentPrice": 146.87,
+          "changeRate": 0.028789576912300552,
           "weight": 1.76,
           "shares": 5.43,
           "marketValue": 6778.58
@@ -14916,8 +14916,8 @@
         {
           "ticker": "AMD",
           "name": "超威半导体",
-          "currentPrice": 273.34,
-          "changeRate": 0.05896482256314872,
+          "currentPrice": 279.13,
+          "changeRate": 0.0031265722705382526,
           "weight": 1.51,
           "shares": 3.87,
           "marketValue": 5820.65
@@ -14925,8 +14925,8 @@
         {
           "ticker": "ORCL",
           "name": "甲骨文",
-          "currentPrice": 177.81,
-          "changeRate": 0.04711147753371425,
+          "currentPrice": 179.76,
+          "changeRate": 0.00796231916563861,
           "weight": 1.42,
           "shares": 3.99,
           "marketValue": 5472.95
@@ -14934,8 +14934,8 @@
         {
           "ticker": "MU",
           "name": "美光科技",
-          "currentPrice": 454.05,
-          "changeRate": -0.0047782916511408535,
+          "currentPrice": 458.43,
+          "changeRate": 0.0026244997047437657,
           "weight": 1.39,
           "shares": 2.67,
           "marketValue": 5348.24
@@ -14943,8 +14943,8 @@
         {
           "ticker": "CSCO",
           "name": "思科",
-          "currentPrice": 83.85,
-          "changeRate": 0.018091306459446344,
+          "currentPrice": 85.21,
+          "changeRate": 0.008402366863905275,
           "weight": 1.31,
           "shares": 9.36,
           "marketValue": 5067.72
@@ -14952,8 +14952,8 @@
         {
           "ticker": "IBM",
           "name": "IBM国际商业机器",
-          "currentPrice": 250.39,
-          "changeRate": 0.022834967320261246,
+          "currentPrice": 253.5,
+          "changeRate": 0.009960159362549792,
           "weight": 1.2,
           "shares": 2.22,
           "marketValue": 4622.25
@@ -14961,141 +14961,141 @@
       ],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.823,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:46:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [
         {
           "name": "英伟达",
           "ticker": "NVDA",
-          "currentPrice": 198.21,
-          "previousClose": 198.87,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 201.3,
+          "previousClose": 198.35,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "苹果",
           "ticker": "AAPL",
-          "currentPrice": 264.07,
-          "previousClose": 266.43,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:49:00",
+          "currentPrice": 269.04,
+          "previousClose": 263.4,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "微软",
           "ticker": "MSFT",
-          "currentPrice": 419.42,
-          "previousClose": 411.22,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:49:00",
+          "currentPrice": 424.21,
+          "previousClose": 420.26,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "博通",
           "ticker": "AVGO",
-          "currentPrice": 397.98,
-          "previousClose": 396.72,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:49:00",
+          "currentPrice": 403.94,
+          "previousClose": 398.47,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:59",
           "currency": "USD"
         },
         {
           "name": "Palantir Technologies Inc.",
           "ticker": "PLTR",
-          "currentPrice": 142.03,
-          "previousClose": 142.15,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 146.8,
+          "previousClose": 142.76,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "美国超威公司",
           "ticker": "AMD",
-          "currentPrice": 273.23,
-          "previousClose": 258.12,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 278.93,
+          "previousClose": 278.26,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "甲骨文",
           "ticker": "ORCL",
-          "currentPrice": 177.81,
-          "previousClose": 169.81,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:49:00",
+          "currentPrice": 179.84,
+          "previousClose": 178.34,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "美光科技",
           "ticker": "MU",
-          "currentPrice": 454.26,
-          "previousClose": 456.23,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 458.85,
+          "previousClose": 457.23,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         },
         {
           "name": "思科",
           "ticker": "CSCO",
-          "currentPrice": 83.83,
-          "previousClose": 82.36,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:49:00",
+          "currentPrice": 85.19,
+          "previousClose": 84.5,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:59",
           "currency": "USD"
         },
         {
           "name": "IBM",
           "ticker": "IBM",
-          "currentPrice": 250.4,
-          "previousClose": 244.8,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 253.45,
+          "previousClose": 251,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:18:00",
           "currency": "USD"
         }
       ],
-      "holdingsQuoteDate": "2026-04-16",
-      "holdingsQuoteTime": "14:48:59",
+      "holdingsQuoteDate": "2026-04-17",
+      "holdingsQuoteTime": "10:18:00",
       "proxyBasketName": "标普信息科技篮子",
       "proxyQuotes": [
         {
           "ticker": "XLK",
           "name": "Technology Select Sector SPDR",
-          "currentPrice": 151.58,
-          "previousClose": 150.3,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:58",
+          "currentPrice": 154.28,
+          "previousClose": 152.02,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:59",
           "currency": "USD",
           "weight": 0.45
         },
         {
           "ticker": "VGT",
           "name": "Vanguard Information Technology ETF",
-          "currentPrice": 790.04,
-          "previousClose": 784.02,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:59",
+          "currentPrice": 804.68,
+          "previousClose": 791.94,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:59",
           "currency": "USD",
           "weight": 0.35
         },
         {
           "ticker": "IYW",
           "name": "iShares U.S. Technology ETF",
-          "currentPrice": 206.17,
-          "previousClose": 205.23,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:53",
+          "currentPrice": 209.75,
+          "previousClose": 206.56,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:53",
           "currency": "USD",
           "weight": 0.2
         }
       ],
-      "proxyQuoteDate": "2026-04-16",
-      "proxyQuoteTime": "14:48:58",
+      "proxyQuoteDate": "2026-04-17",
+      "proxyQuoteTime": "10:17:59",
       "goldContinuousReturn": null,
       "goldContinuousSymbol": "",
       "goldContinuousSource": "",
@@ -15110,9 +15110,17 @@
       "name": "国泰大宗商品(QDII-LOF)A(160216)",
       "fundType": "QDII-商品",
       "benchmark": "国泰大宗商品配置指数(全收益指数)",
-      "officialNavT1": 0.753,
-      "navDate": "2026-04-13",
+      "officialNavT1": 0.757,
+      "navDate": "2026-04-15",
       "navHistory": [
+        {
+          "date": "2026-04-15",
+          "nav": 0.757
+        },
+        {
+          "date": "2026-04-14",
+          "nav": 0.751
+        },
         {
           "date": "2026-04-13",
           "nav": 0.753
@@ -16784,14 +16792,6 @@
         {
           "date": "2024-07-21",
           "nav": 0.5
-        },
-        {
-          "date": "2024-07-18",
-          "nav": 0.501
-        },
-        {
-          "date": "2024-07-17",
-          "nav": 0.506
         }
       ],
       "marketPrice": 0.747,
@@ -16806,10 +16806,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.823,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:46:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -16820,16 +16820,16 @@
         {
           "ticker": "DBC",
           "name": "Invesco DB Commodity Index Tracking Fund",
-          "currentPrice": 29.17,
-          "previousClose": 28.89,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "14:48:03",
+          "currentPrice": 27.99,
+          "previousClose": 29.11,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "10:17:52",
           "currency": "USD",
           "weight": 1
         }
       ],
-      "proxyQuoteDate": "2026-04-16",
-      "proxyQuoteTime": "14:48:03",
+      "proxyQuoteDate": "2026-04-17",
+      "proxyQuoteTime": "10:17:52",
       "goldContinuousReturn": null,
       "goldContinuousSymbol": "",
       "goldContinuousSource": "",
@@ -16844,9 +16844,17 @@
       "name": "易方达黄金主题人民币A(161116)",
       "fundType": "QDII-商品",
       "benchmark": "以伦敦黄金市场下午定盘价计价的国际现货黄金(经汇率折算)*50%+MSCI全球金矿股指数(MSCI ACWI SELECT GOLD MINERS IMI INDEX)*50%",
-      "officialNavT1": 1.8079,
-      "navDate": "2026-04-13",
+      "officialNavT1": 1.7924,
+      "navDate": "2026-04-15",
       "navHistory": [
+        {
+          "date": "2026-04-15",
+          "nav": 1.7924
+        },
+        {
+          "date": "2026-04-14",
+          "nav": 1.7925
+        },
         {
           "date": "2026-04-13",
           "nav": 1.8079
@@ -18518,14 +18526,6 @@
         {
           "date": "2024-07-21",
           "nav": 0.993
-        },
-        {
-          "date": "2024-07-18",
-          "nav": 0.993
-        },
-        {
-          "date": "2024-07-17",
-          "nav": 1.007
         }
       ],
       "marketPrice": 1.807,
@@ -18540,10 +18540,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.8233,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:52:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -18554,27 +18554,27 @@
         {
           "ticker": "GLD",
           "name": "SPDR Gold Shares",
-          "currentPrice": 453.3236,
-          "previousClose": 440.46,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:21",
+          "currentPrice": 460.6778,
+          "previousClose": 440.08,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:18",
           "currency": "USD",
           "weight": 0.19999999999999996
         },
         {
           "ticker": "518880",
           "name": "华安黄金ETF",
-          "currentPrice": 10.097,
-          "previousClose": 10.064,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:51",
+          "currentPrice": 10.029,
+          "previousClose": 10.097,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:33",
           "currency": "CNY",
           "weight": 0.8
         }
       ],
-      "proxyQuoteDate": "2026-04-16",
-      "proxyQuoteTime": "16:14:21",
-      "goldContinuousReturn": 0.0006095384416273664,
+      "proxyQuoteDate": "2026-04-17",
+      "proxyQuoteTime": "16:14:18",
+      "goldContinuousReturn": 0.016419449512175666,
       "goldContinuousSymbol": "hf_XAU",
       "goldContinuousSource": "sina-futures",
       "cacheMode": "intraday-cache-ttl"
@@ -18588,9 +18588,17 @@
       "name": "汇添富黄金及贵金属(QDII-LOF-FOF)A(164701)",
       "fundType": "QDII-商品",
       "benchmark": "伦敦金价格折成人民币后的收益率",
-      "officialNavT1": 1.926,
-      "navDate": "2026-04-13",
+      "officialNavT1": 1.905,
+      "navDate": "2026-04-15",
       "navHistory": [
+        {
+          "date": "2026-04-15",
+          "nav": 1.905
+        },
+        {
+          "date": "2026-04-14",
+          "nav": 1.906
+        },
         {
           "date": "2026-04-13",
           "nav": 1.926
@@ -20262,14 +20270,6 @@
         {
           "date": "2024-07-21",
           "nav": 1.043
-        },
-        {
-          "date": "2024-07-18",
-          "nav": 1.044
-        },
-        {
-          "date": "2024-07-17",
-          "nav": 1.06
         }
       ],
       "marketPrice": 1.891,
@@ -20284,10 +20284,10 @@
       "disclosedHoldings": [],
       "fx": {
         "pair": "USD/CNY",
-        "currentRate": 6.822,
-        "previousCloseRate": 6.8233,
+        "currentRate": 6.8176,
+        "previousCloseRate": 6.8181,
         "quoteDate": "2026-04-17",
-        "quoteTime": "02:52:01",
+        "quoteTime": "22:18:01",
         "source": "新浪外汇"
       },
       "holdingQuotes": [],
@@ -20298,37 +20298,37 @@
         {
           "ticker": "GLD",
           "name": "SPDR Gold Shares",
-          "currentPrice": 453.3236,
-          "previousClose": 440.46,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:30",
+          "currentPrice": 460.6778,
+          "previousClose": 440.08,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:24",
           "currency": "USD",
           "weight": 0.12857142857142856
         },
         {
           "ticker": "518880",
           "name": "华安黄金ETF",
-          "currentPrice": 10.097,
-          "previousClose": 10.064,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:51",
+          "currentPrice": 10.029,
+          "previousClose": 10.097,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:33",
           "currency": "CNY",
           "weight": 0.8
         },
         {
           "ticker": "SLV",
           "name": "iShares Silver Trust",
-          "currentPrice": 75.47200000000001,
-          "previousClose": 71.84,
-          "quoteDate": "2026-04-16",
-          "quoteTime": "16:14:30",
+          "currentPrice": 78.9912,
+          "previousClose": 71.24,
+          "quoteDate": "2026-04-17",
+          "quoteTime": "16:14:24",
           "currency": "USD",
           "weight": 0.07142857142857141
         }
       ],
-      "proxyQuoteDate": "2026-04-16",
-      "proxyQuoteTime": "16:14:30",
-      "goldContinuousReturn": 0.0006095384416273664,
+      "proxyQuoteDate": "2026-04-17",
+      "proxyQuoteTime": "16:14:24",
+      "goldContinuousReturn": 0.016419449512175666,
       "goldContinuousSymbol": "hf_XAU",
       "goldContinuousSource": "sina-futures",
       "cacheMode": "intraday-cache-ttl"
@@ -120905,16 +120905,16 @@
     "160216": {
       "modelVersion": 17,
       "model": {
-        "alpha": -0.00011487558194438912,
-        "betaLead": 0.3800089772513109,
-        "betaGap": 1.2247016938043713e-7,
+        "alpha": -0.000292427413578866,
+        "betaLead": 0.3800097972907623,
+        "betaGap": 1.1041833796964825e-7,
         "adaptiveK": 0.9801434483191677,
         "adaptiveBias": -0.001108622327113255,
-        "lastTargetReturn": 0.006684491978609541,
+        "lastTargetReturn": 0,
         "learningRate": 0.24,
-        "sampleCount": 35,
-        "meanAbsError": 0.007131958813937895,
-        "lastUpdatedAt": "2026-04-08T11:33:06.737Z"
+        "sampleCount": 37,
+        "meanAbsError": 0.006958436247056838,
+        "lastUpdatedAt": "2026-04-17T14:18:55.577Z"
       },
       "journal": {
         "snapshots": [
@@ -121325,6 +121325,22 @@
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T18:49:35.470Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 0.7457107002351611,
+            "marketPrice": 0.747,
+            "premiumRate": 0.0017289543578125066,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:30",
+            "marketPriceType": "intraday",
+            "anchorNav": 0.757,
+            "leadReturn": -0.03847475094469255,
+            "closeGapReturn": -0.0000733342133439896,
+            "impliedReturn": -0.014913209728981486,
+            "adaptiveUsed": false,
+            "adaptiveShockTriggered": false,
+            "createdAt": "2026-04-17T14:18:55.577Z"
           }
         ],
         "errors": [
@@ -121603,6 +121619,30 @@
             "absPremiumError": 0.0006566314452933764,
             "error": -0.0006614677642353683,
             "absError": 0.0006614677642353683
+          },
+          {
+            "date": "2026-04-14",
+            "marketPrice": 0.743,
+            "estimatedNav": 0.7556217172407286,
+            "actualNav": 0.751,
+            "premiumRate": -0.016703751298756675,
+            "actualPremiumRate": -0.010652463382157085,
+            "premiumError": -0.00605128791659959,
+            "absPremiumError": 0.00605128791659959,
+            "error": 0.0061540842086931224,
+            "absError": 0.0061540842086931224
+          },
+          {
+            "date": "2026-04-15",
+            "marketPrice": 0.743,
+            "estimatedNav": 0.7557210496774502,
+            "actualNav": 0.757,
+            "premiumRate": -0.016832996358748686,
+            "actualPremiumRate": -0.018494055482166427,
+            "premiumError": 0.0016610591234177408,
+            "absPremiumError": 0.0016610591234177408,
+            "error": -0.0016894984445835481,
+            "absError": 0.0016894984445835481
           }
         ]
       }
@@ -126865,16 +126905,16 @@
     "161116": {
       "modelVersion": 17,
       "model": {
-        "alpha": 0.008844540237159875,
-        "betaLead": 0.3800940728714237,
-        "betaGap": -0.000004151509059108302,
+        "alpha": 0.008169186071352252,
+        "betaLead": 0.3800946081852123,
+        "betaGap": -0.000003993107683308726,
         "adaptiveK": 1.04,
         "adaptiveBias": -0.0011283091852343431,
-        "lastTargetReturn": 0.011922086645024033,
+        "lastTargetReturn": -0.00857348304662875,
         "learningRate": 0.24,
-        "sampleCount": 36,
-        "meanAbsError": 0.01012445891378757,
-        "lastUpdatedAt": "2026-04-15T10:21:14.249Z"
+        "sampleCount": 37,
+        "meanAbsError": 0.010317440161094548,
+        "lastUpdatedAt": "2026-04-17T14:19:00.737Z"
       },
       "journal": {
         "snapshots": [
@@ -127285,6 +127325,22 @@
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T19:52:13.405Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 1.649008,
+            "marketPrice": 1.807,
+            "premiumRate": 0.09581032960422253,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:18",
+            "marketPriceType": "intraday",
+            "anchorNav": 1.7924,
+            "leadReturn": 0.012063260588038374,
+            "closeGapReturn": -0.0000733342133439896,
+            "impliedReturn": -0.08,
+            "adaptiveUsed": false,
+            "adaptiveShockTriggered": false,
+            "createdAt": "2026-04-17T14:19:00.738Z"
           }
         ],
         "errors": [
@@ -127567,14 +127623,26 @@
           {
             "date": "2026-04-14",
             "marketPrice": 1.815,
-            "estimatedNav": 1.848284804601573,
-            "actualNav": 1.8079,
-            "premiumRate": -0.018008482523205083,
-            "actualPremiumRate": 0.00392720836329441,
-            "premiumError": -0.021935690886499493,
-            "absPremiumError": 0.021935690886499493,
-            "error": 0.02233796371567731,
-            "absError": 0.02233796371567731
+            "estimatedNav": 1.792342789189403,
+            "actualNav": 1.7925,
+            "premiumRate": 0.01264111471714835,
+            "actualPremiumRate": 0.012552301255230214,
+            "premiumError": 0.00008881346191813577,
+            "absPremiumError": 0.00008881346191813577,
+            "error": -0.00008770477578634583,
+            "absError": 0.00008770477578634583
+          },
+          {
+            "date": "2026-04-15",
+            "marketPrice": 1.821,
+            "estimatedNav": 1.8233453649009748,
+            "actualNav": 1.7924,
+            "premiumRate": -0.0012862976735634746,
+            "actualPremiumRate": 0.015956259763445724,
+            "premiumError": -0.0172425574370092,
+            "absPremiumError": 0.0172425574370092,
+            "error": 0.01726476506414576,
+            "absError": 0.01726476506414576
           }
         ]
       }
@@ -130270,16 +130338,16 @@
     "161128": {
       "modelVersion": 17,
       "model": {
-        "alpha": 0.0033274435026431222,
-        "betaLead": 0.3800802669672893,
-        "betaGap": -0.0000017041102427325346,
-        "adaptiveK": 1.0217038574123283,
-        "adaptiveBias": -0.000948238615038278,
-        "lastTargetReturn": 0.038147586786216436,
+        "alpha": 0.005165537076322771,
+        "betaLead": 0.3801091677197669,
+        "betaGap": -0.000001918950238393059,
+        "adaptiveK": 1.0975877313146263,
+        "adaptiveBias": 0.00043917114175208297,
+        "lastTargetReturn": 0.0424038993733149,
         "learningRate": 0.24,
-        "sampleCount": 35,
-        "meanAbsError": 0.007472807690970875,
-        "lastUpdatedAt": "2026-04-08T11:33:04.146Z"
+        "sampleCount": 37,
+        "meanAbsError": 0.008272831344723492,
+        "lastUpdatedAt": "2026-04-17T14:18:48.904Z"
       },
       "journal": {
         "snapshots": [
@@ -130690,6 +130758,22 @@
             "adaptiveUsed": true,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T18:49:35.469Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 5.938115507451368,
+            "marketPrice": 5.966,
+            "premiumRate": 0.004695848794729951,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:24",
+            "marketPriceType": "intraday",
+            "anchorNav": 5.8384,
+            "leadReturn": 0.014658760962350172,
+            "closeGapReturn": -0.0000733342133439896,
+            "impliedReturn": 0.017079252440971446,
+            "adaptiveUsed": true,
+            "adaptiveShockTriggered": true,
+            "createdAt": "2026-04-17T14:18:48.904Z"
           }
         ],
         "errors": [
@@ -130968,6 +131052,30 @@
             "absPremiumError": 0.02761846171281579,
             "error": -0.027497487496822126,
             "absError": 0.027497487496822126
+          },
+          {
+            "date": "2026-04-14",
+            "marketPrice": 5.729,
+            "estimatedNav": 5.656268052328664,
+            "actualNav": 5.794,
+            "premiumRate": 0.012858645841827165,
+            "actualPremiumRate": -0.011218501898515587,
+            "premiumError": 0.024077147740342753,
+            "absPremiumError": 0.024077147740342753,
+            "error": -0.02377147871441765,
+            "absError": 0.02377147871441765
+          },
+          {
+            "date": "2026-04-15",
+            "marketPrice": 5.928,
+            "estimatedNav": 5.717107170777764,
+            "actualNav": 5.8384,
+            "premiumRate": 0.036888031468115035,
+            "actualPremiumRate": 0.015346670320635747,
+            "premiumError": 0.021541361147479288,
+            "absPremiumError": 0.021541361147479288,
+            "error": -0.020775011856370984,
+            "absError": 0.020775011856370984
           }
         ]
       }
@@ -133038,16 +133146,16 @@
     "161226": {
       "modelVersion": 17,
       "model": {
-        "alpha": -0.009423325894116881,
-        "betaLead": 0.38021424432970236,
-        "betaGap": 0.000004577482391452193,
+        "alpha": -0.009779310532011006,
+        "betaLead": 0.380207290637576,
+        "betaGap": 0.000004629656601901293,
         "adaptiveK": 1,
         "adaptiveBias": 0,
-        "lastTargetReturn": 0.06174007664285375,
+        "lastTargetReturn": -0.011139827109883371,
         "learningRate": 0.24,
-        "sampleCount": 37,
-        "meanAbsError": 0.020933217618718657,
-        "lastUpdatedAt": "2026-04-16T18:49:34.614Z"
+        "sampleCount": 38,
+        "meanAbsError": 0.02062567216822681,
+        "lastUpdatedAt": "2026-04-17T14:18:40.689Z"
       },
       "journal": {
         "snapshots": [
@@ -133452,7 +133560,7 @@
             "marketPrice": 2.902,
             "premiumRate": 0.29569778541826985,
             "marketPriceDate": "2026-04-16",
-            "marketPriceTime": "16:14:09",
+            "marketPriceTime": "15:00:00",
             "marketPriceType": "close",
             "anchorNav": 2.2442,
             "leadReturn": 0.019533685968819547,
@@ -133461,6 +133569,22 @@
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T18:49:34.614Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 2.2628237036298664,
+            "marketPrice": 2.874,
+            "premiumRate": 0.2700945263167107,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:33",
+            "marketPriceType": "close",
+            "anchorNav": 2.2192,
+            "leadReturn": 0.07742279618192027,
+            "closeGapReturn": -0.0000733342133439896,
+            "impliedReturn": 0.01965740069838994,
+            "adaptiveUsed": false,
+            "adaptiveShockTriggered": false,
+            "createdAt": "2026-04-17T14:18:40.690Z"
           }
         ],
         "errors": [
@@ -133763,6 +133887,18 @@
             "absPremiumError": 0.0813092715387842,
             "error": -0.059661861191707244,
             "absError": 0.059661861191707244
+          },
+          {
+            "date": "2026-04-16",
+            "marketPrice": 2.902,
+            "estimatedNav": 2.239719811717663,
+            "actualNav": 2.2192,
+            "premiumRate": 0.29569778541826985,
+            "actualPremiumRate": 0.3076784426820478,
+            "premiumError": -0.01198065726377795,
+            "absPremiumError": 0.01198065726377795,
+            "error": 0.00924649050002846,
+            "absError": 0.00924649050002846
           }
         ]
       }
@@ -137758,16 +137894,16 @@
     "164701": {
       "modelVersion": 17,
       "model": {
-        "alpha": 0.0047443804655451505,
-        "betaLead": 0.38014511003254225,
-        "betaGap": -0.0000039126443017954225,
+        "alpha": 0.004923372895774124,
+        "betaLead": 0.3801452605917976,
+        "betaGap": -0.000003954626196098352,
         "adaptiveK": 1.096,
         "adaptiveBias": -0.00697356630331092,
-        "lastTargetReturn": 0.015287295730100015,
+        "lastTargetReturn": 0.009538950715421324,
         "learningRate": 0.24,
-        "sampleCount": 35,
-        "meanAbsError": 0.010774122607222334,
-        "lastUpdatedAt": "2026-04-08T11:33:26.807Z"
+        "sampleCount": 36,
+        "meanAbsError": 0.0105979672314465,
+        "lastUpdatedAt": "2026-04-17T14:19:03.255Z"
       },
       "journal": {
         "snapshots": [
@@ -138178,6 +138314,22 @@
             "adaptiveUsed": false,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T19:52:13.406Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 1.7526000000000002,
+            "marketPrice": 1.891,
+            "premiumRate": 0.07896838982083754,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:24",
+            "marketPriceType": "intraday",
+            "anchorNav": 1.905,
+            "leadReturn": 0.013613244857908765,
+            "closeGapReturn": -0.0000733342133439896,
+            "impliedReturn": -0.08,
+            "adaptiveUsed": false,
+            "adaptiveShockTriggered": false,
+            "createdAt": "2026-04-17T14:19:03.255Z"
           }
         ],
         "errors": [
@@ -138460,14 +138612,26 @@
           {
             "date": "2026-04-14",
             "marketPrice": 1.894,
-            "estimatedNav": 1.946125581118273,
-            "actualNav": 1.926,
-            "premiumRate": -0.026784284438787775,
-            "actualPremiumRate": -0.01661474558670817,
-            "premiumError": -0.010169538852079607,
-            "absPremiumError": 0.010169538852079607,
-            "error": 0.010449419064523902,
-            "absError": 0.010449419064523902
+            "estimatedNav": 1.908006696698721,
+            "actualNav": 1.906,
+            "premiumRate": -0.007341010240140111,
+            "actualPremiumRate": -0.006295907660020972,
+            "premiumError": -0.0010451025801191394,
+            "absPremiumError": 0.0010451025801191394,
+            "error": 0.001052831426401335,
+            "absError": 0.001052831426401335
+          },
+          {
+            "date": "2026-04-15",
+            "marketPrice": 1.906,
+            "estimatedNav": 1.896556032103948,
+            "actualNav": 1.905,
+            "premiumRate": 0.004979535397947155,
+            "actualPremiumRate": 0.0005249343832021136,
+            "premiumError": 0.004454601014745041,
+            "absPremiumError": 0.004454601014745041,
+            "error": -0.004432529079292369,
+            "absError": 0.004432529079292369
           }
         ]
       }
@@ -141156,16 +141320,16 @@
     "501011": {
       "modelVersion": 17,
       "model": {
-        "alpha": -0.0005543490085684343,
-        "betaLead": 0.3799776561250003,
+        "alpha": -0.0010418743117931238,
+        "betaLead": 0.3799786510800066,
         "betaGap": 0,
-        "adaptiveK": 0.7023007268340388,
-        "adaptiveBias": -0.00041314226095252155,
-        "lastTargetReturn": 0.01454925827310749,
+        "adaptiveK": 0.8340246396139541,
+        "adaptiveBias": -0.0007787862383710388,
+        "lastTargetReturn": -0.013871965507545103,
         "learningRate": 0.24,
-        "sampleCount": 35,
-        "meanAbsError": 0.004198414217803648,
-        "lastUpdatedAt": "2026-04-09T19:39:10.971Z"
+        "sampleCount": 36,
+        "meanAbsError": 0.0044251133869708525,
+        "lastUpdatedAt": "2026-04-17T14:18:38.420Z"
       },
       "journal": {
         "snapshots": [
@@ -141557,7 +141721,7 @@
             "marketPrice": 1.065,
             "premiumRate": -0.00009719116353301693,
             "marketPriceDate": "2026-04-16",
-            "marketPriceTime": "16:14:06",
+            "marketPriceTime": "15:00:00",
             "marketPriceType": "close",
             "anchorNav": 1.0669,
             "leadReturn": -0.002040827419102629,
@@ -141566,6 +141730,22 @@
             "adaptiveUsed": true,
             "adaptiveShockTriggered": false,
             "createdAt": "2026-04-16T18:49:29.109Z"
+          },
+          {
+            "estimateDate": "2026-04-17",
+            "estimatedNav": 1.0395194644670365,
+            "marketPrice": 1.05,
+            "premiumRate": 0.010082096479393066,
+            "marketPriceDate": "2026-04-17",
+            "marketPriceTime": "16:14:22",
+            "marketPriceType": "close",
+            "anchorNav": 1.0521,
+            "leadReturn": -0.012371837169164766,
+            "closeGapReturn": 0,
+            "impliedReturn": -0.01195754731771085,
+            "adaptiveUsed": true,
+            "adaptiveShockTriggered": true,
+            "createdAt": "2026-04-17T14:18:38.421Z"
           }
         ],
         "errors": [
@@ -141856,6 +142036,18 @@
             "absPremiumError": 0.00478484676220825,
             "error": -0.004761616851283512,
             "absError": 0.004761616851283512
+          },
+          {
+            "date": "2026-04-16",
+            "marketPrice": 1.065,
+            "estimatedNav": 1.0651035186502606,
+            "actualNav": 1.0521,
+            "premiumRate": -0.00009719116353301693,
+            "actualPremiumRate": 0.01226119190191044,
+            "premiumError": -0.012358383065443457,
+            "absPremiumError": 0.012358383065443457,
+            "error": 0.012359584307823024,
+            "absError": 0.012359584307823024
           }
         ]
       }
